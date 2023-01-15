@@ -1,0 +1,45 @@
+.NewTwite{
+    width: 700px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    border-bottom: 8px solid rgb(187, 187, 187);
+}
+
+.imageNewTwite{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-image: url("../../../image/User-19.svg");
+    margin-right: 20px;
+    margin-top: 27px;
+    background-size: cover;
+    background-position: center center;
+    cursor: pointer;
+}
+
+.write{
+    margin-right: 20px;
+    width: 550px;
+    border: none;
+    outline: none;
+    padding: 30px;
+    padding-right: 3px;
+}
+
+.addtwite{
+    margin-top: 40px;
+    margin-left: 30px;
+    background-color: rgb(87, 179, 233);
+    color: white;
+    padding: 10px;
+    width: 120px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.addtwite:hover{
+    background-color: rgb(65, 145, 192);
+}

@@ -1,0 +1,80 @@
+.people{
+    background-color: white;
+    width: 500px;
+    height: 814px;
+    border: 3px solid rgb(187, 187, 187);
+    border-right: none;
+    border-left: none;
+}
+
+.username{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.image{
+    background-image: url("../../../image/User-19.svg");
+    width: 60px;
+    height: 60px;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 100%;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.best{
+    width: 400px;
+    margin: 100px auto;
+    height: 500px;
+    border-radius: 20px;
+    background-color: rgb(202, 202, 202);
+}
+
+.h3{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+
+.topmenu{
+    padding: 15px;
+    cursor: pointer;
+}
+
+.topmenu:hover{
+    background-color: rgb(170, 170, 170);
+}
+
+.topimage{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin-right: 20px;
+    background-image: url("../../../image/User-19.svg");
+    background-size: cover;
+    background-position: center center;
+    cursor: pointer;
+}
+
+.topname{
+    margin-top: 10px;
+    margin-right: 15px;
+}
+
+.image1{
+    background-image: url("../../../image/image1.jpeg");
+}
+
+.image2{
+    background-image: url("../../../image/imag2.jpg");
+}
+
+.image3{
+    background-image: url("../../../image/image3.jpg");
+}
+
+.image4{
+    background-image: url("../../../image/image4.jpg");
+}

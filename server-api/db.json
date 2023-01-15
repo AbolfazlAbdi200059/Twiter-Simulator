@@ -1,0 +1,79 @@
+{
+  "Regester": [
+    {
+      "name": "AmirAli",
+      "email": "amiraliboos555@gmail.com",
+      "PhoneNumber": "09305987142",
+      "password": "12345678",
+      "Twites": [],
+      "id": 3,
+      "totalLikes": 20
+    },
+    {
+      "name": "Mahdi",
+      "email": "mahdi1381@gmail.com",
+      "PhoneNumber": "09333046538",
+      "password": "12345678",
+      "id": 5,
+      "totalLikes": 0
+    },
+    {
+      "name": "AmirHossein",
+      "email": "AmirHossein@gmail.com",
+      "PhoneNumber": "09123456789",
+      "password": "12345678",
+      "id": 6,
+      "totalLikes": 7
+    },
+    {
+      "name": "Mohammad",
+      "email": "Mohammad@gmail.com",
+      "PhoneNumber": "09123456789",
+      "password": "12345678",
+      "id": 7,
+      "totalLikes": 0
+    }
+  ],
+  "Twites": [
+    {
+      "text": "مهسا_امینی نماد آزادی تمام زنان ایران است.",
+      "like": 3,
+      "id": 1,
+      "name": "AmirAli",
+      "email": "amiraliboos555@gmail.com",
+      "likedby": []
+    },
+    {
+      "text": "مهسا_امینی نماد آزادی تمام زنان ایران است.",
+      "like": 1,
+      "name": "AmirHossein",
+      "email": "AmirHossein@gmail.com",
+      "likedby": [],
+      "id": 2
+    },
+    {
+      "text": "مهسا_امینی نماد آزادی تمام زنان ایران است.",
+      "like": 1,
+      "name": "AmirHossein",
+      "email": "AmirHossein@gmail.com",
+      "likedby": [],
+      "id": 3
+    },
+    {
+      "text": "#نیکا_شاکرمی",
+      "like": 0,
+      "name": "AmirHossein",
+      "email": "AmirHossein@gmail.com",
+      "likedby": [],
+      "id": 4
+    },
+    {
+      "text": "#معترضین_فقر",
+      "like": 0,
+      "name": "Mahdi",
+      "email": "mahdi1381@gmail.com",
+      "likedby": [],
+      "id": 5
+    }
+  ]
+}

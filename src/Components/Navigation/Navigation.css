@@ -1,0 +1,30 @@
+.ul{
+    background-color: rgb(87, 179, 233);
+    margin-top: 0;
+    position: fixed;
+    width: 100%;
+    top: 0;direction: ltr;
+}
+
+.li{
+    padding: 10px 0;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.li:hover{
+    background-color: white;
+}
+
+.li:hover .Link{
+    color: rgb(87, 179, 233);
+}
+
+.Link{
+    text-decoration: none;
+    padding: 25px;
+    color: white;
+}

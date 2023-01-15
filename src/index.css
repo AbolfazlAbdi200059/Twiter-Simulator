@@ -1,0 +1,28 @@
+body {
+  font-size: 20px;
+  direction: rtl;
+  font-family: 'B nazanin';
+  background-color: white;
+  margin: 0;
+}
+
+button , select , input , label{
+  font-size: inherit;
+  font-family: inherit;
+}
+
+.clear{
+  clear: both;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
+}
+
+.homePage{
+  margin-top: 69px;
+}

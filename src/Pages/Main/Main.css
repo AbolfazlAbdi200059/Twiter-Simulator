@@ -1,0 +1,21 @@
+.main{
+    text-align: center;
+    width: 700px;
+    border: 1px solid rgb(187, 187, 187);
+    background-color: white;
+}
+
+.twitelist{
+    overflow: auto;
+}
+
+.home{
+    margin: 15px;
+    margin-right: 3px;
+}
+
+.top{
+    margin-right: 20px;
+    border-bottom: 2px solid rgb(170, 170, 170);
+}
+

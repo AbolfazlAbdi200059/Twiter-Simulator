@@ -1,0 +1,43 @@
+.hashtag{
+    width: 478px;
+    background-color: white;
+    border: 1px solid rgb(187, 187, 187);
+    border-bottom: 3px solid rgb(187, 187, 187);
+    height: 814px;
+}
+
+.bestHashtag{
+    padding-bottom: 0;
+    margin-bottom: 10px;
+}
+
+.hashtags{
+    margin-right: 80px;
+}
+
+.title{
+    padding: 5px;
+    border: 1px solid rgb(77, 26, 7);
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.icon{
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    background-position: center center;
+    display: block;
+    background-image: url("./twitter-social-media-icon-abstract-logo-design-illustration-free-vector.jpg");
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+.Twiter{
+    margin-top: 60px;
+    margin-right: 10px;
+    color: rgb(87, 179, 233);
+    font-size: 22px;
+}

@@ -1,0 +1,63 @@
+.Twite{
+    width: 100%;
+    border-bottom: 5px solid rgb(187, 187, 187);
+}
+
+.imagetwiter{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin-right: 20px;
+    margin-top: 27px;
+    background-image: url("../../../image/User-19.svg");
+    background-size: cover;
+    background-position: center center;
+    cursor: pointer;
+}
+
+.image1{
+    background-image: url("../../../image/image1.jpeg");
+}
+
+.image2{
+    background-image: url("../../../image/imag2.jpg");
+}
+
+.image3{
+    background-image: url("../../../image/image3.jpg");
+}
+
+.image4{
+    background-image: url("../../../image/image4.jpg");
+}
+
+.email{
+    margin-top: 35px;
+    font-size: 15px;
+    color: rgb(179, 179, 179);
+}
+
+.name{
+    margin: 30px 30px 10px 15px;
+}
+
+.twitetext{
+    margin-right: 105px;
+}
+
+.like{
+    margin-left: 50px;
+    margin-top: 35px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+.numberOfLike{
+    width: 20px;
+    height: 30px;
+    border-radius: 100%;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}

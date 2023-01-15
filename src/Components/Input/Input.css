@@ -1,0 +1,22 @@
+.label{
+    margin-left: 48px;
+    font-size: 21px;
+}
+
+.a{
+    direction: ltr;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.FormControl{
+    width: 300px;
+    border-radius: 30px;
+    padding: 10px;
+    border: 1px solid rgb(202, 202, 202);
+    outline: none;
+}
+
+.error{
+    color: rgb(129, 34, 34);
+}

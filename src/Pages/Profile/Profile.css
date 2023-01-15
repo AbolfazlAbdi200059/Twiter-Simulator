@@ -1,0 +1,39 @@
+.profile{
+    margin: 0 auto;
+    margin-top: 250px;
+    margin-bottom: 600px;
+    width: 700px;
+    background-color: lightgray;
+    height: 300px;
+    text-align: center;
+    direction: ltr;
+    border-radius: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.profileImage{
+    background-image: url("../../../image/User-19.svg");
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 755px;
+    top: 140px;
+}
+
+.ProfileName{
+    top: 90px;
+}
+
+.details{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.Profileemail{
+    margin-top: 40px;
+}
+
+.ProfilePhoneNumber{
+    margin-top: 40px;
+}
